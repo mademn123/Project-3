@@ -1,6 +1,3 @@
-//
-// Created by aarit on 11/30/2024.
-//
 
 #ifndef TASKSCHEDULERTEMP_TASKITEM_H
 #define TASKSCHEDULERTEMP_TASKITEM_H

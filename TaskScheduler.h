@@ -31,8 +31,7 @@ public:
     void loadTasks();
     void showPriorityGraph();
 
-public slots:
-            void addTaskFromUI();
+    void addTaskFromUI();
     void addDependencyFromUI();
     void removeTask();
     void updateTaskColors();

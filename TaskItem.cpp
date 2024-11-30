@@ -1,6 +1,3 @@
-//
-// Created by aarit on 11/30/2024.
-//
 
 #include "TaskItem.h"
 #include "TaskItem.h"
